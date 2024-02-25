@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PedidosApp", "PedidosApp.csproj", "{C266336D-0A2E-4A8D-868F-43817B6E41F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaDatos", "CapaDatos\CapaDatos.csproj", "{0BF89ADA-1426-4A28-B2AF-5968240D4884}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaNegocio", "CapaNegocio\CapaNegocio.csproj", "{385CCE03-7213-49C8-BC45-FFF96B70B9CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C266336D-0A2E-4A8D-868F-43817B6E41F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C266336D-0A2E-4A8D-868F-43817B6E41F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C266336D-0A2E-4A8D-868F-43817B6E41F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C266336D-0A2E-4A8D-868F-43817B6E41F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BF89ADA-1426-4A28-B2AF-5968240D4884}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BF89ADA-1426-4A28-B2AF-5968240D4884}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BF89ADA-1426-4A28-B2AF-5968240D4884}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BF89ADA-1426-4A28-B2AF-5968240D4884}.Release|Any CPU.Build.0 = Release|Any CPU
+		{385CCE03-7213-49C8-BC45-FFF96B70B9CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{385CCE03-7213-49C8-BC45-FFF96B70B9CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{385CCE03-7213-49C8-BC45-FFF96B70B9CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{385CCE03-7213-49C8-BC45-FFF96B70B9CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACF4E0EC-0A28-41F1-BC14-1DAB554B68EA}
+	EndGlobalSection
+EndGlobal
